@@ -6,4 +6,4 @@
 
 > What are some refactoring techniques you might apply to the provided solution?
 
-Your reply here...
+For refactoring you could potentially treat each box as part of the same class so that it moves from one to the next based on the same code rather than multiple lines of code.
